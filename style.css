@@ -273,9 +273,11 @@ margin-left: 1rem;
 
 }
 .album-text{
-  display: flex;
+  /* display: flex; */
+   display: inline-flex ;
   margin-right: 1rem;
 }
+
 
 .p{
   margin-left: 1rem;
